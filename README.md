@@ -4,7 +4,7 @@ Get Hardware information synchronously and asynchronously.
 
     Documentation
 
-    **Initialize the HardwareInformation class**
+    Initialize the HardwareInformation class
 
     var hardware = new HardwareInformation();
 
