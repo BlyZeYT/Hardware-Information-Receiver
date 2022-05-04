@@ -2,7 +2,7 @@
 ## For .NET 6.0
 Get Hardware information synchronously and asynchronously.
 
-# Documentation
+{# Documentation
 
 ### Initialize the HardwareInformation class
 
@@ -20,4 +20,4 @@ if (cpus.Length > 0) //Check if a CPU was found
       var cpu = cpus[0]; //Save first CPU
 
       var coresNumber = cpu.NumberOfCores; // Get Numbers of Cores from saved CPU
-  }
+  }}
