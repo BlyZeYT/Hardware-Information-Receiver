@@ -1,4 +1,7 @@
 # HardwareInformationReceiver
+
+> 🔴 **Project status**: Discontinued<sup>[[?]](https://github.com/BlyZeYT/.github/blob/master/project-status.md)</sup>
+
 ## For .NET 6.0
 Get Hardware information synchronously and asynchronously.
 
